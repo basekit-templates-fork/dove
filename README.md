@@ -1,4 +1,4 @@
-swan
+dove
 ====
 
-The Swan Template
+The Dove Template
